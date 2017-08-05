@@ -1,7 +1,7 @@
-#Reference
+# Reference
 *Investigating Haze-relevant Features in A Learning Framework for Image Dehazing*
 
-#Some Results
+# Some Results
 > * training  transmission with RF result(using uniform transmission value in synthetic images )
 
 ![train_uniform](result/t1.png)
